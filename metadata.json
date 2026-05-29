@@ -1,0 +1,6 @@
+{
+  "name": "SIMRS Admin Dashboard",
+  "description": "Sistem Informasi Manajemen Rumah Sakit - Hospital Management Information System Admin Dashboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
